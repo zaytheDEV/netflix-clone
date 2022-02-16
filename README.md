@@ -2,6 +2,13 @@ Netflix Clone
 
 Hi, thank you for reviewing my Netflix Clone project. 
 
+<b>Instructions for Clone</b>
+1.	Enter a pseudo email and password and click “sign up now”
+2.	Click movie title and watch trailer
+3.	Click profile button and sign out
+4.	Sign back in if needed
+
+
 <b>Main Objective</b></br>
 The objective of this project was to get a better understanding with React and API requests. This project contains a login portal hosted by Firebase. Just like the Netflix sign-in and sign-up page, the user can make an account and login or out of their account. For the movie previews/trailers, I used IMDB API and YouTube extension. The extension pulls the trailer of the selected movie from YouTube’s database. 
 
