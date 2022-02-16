@@ -2,7 +2,7 @@ Netflix Clone
 
 Hi, thank you for reviewing my Netflix Clone project. 
 
-<b>Instructions for Clone</b>
+<b>Instructions for app</b>
 1.	Enter a pseudo email and password and click “sign up now”
 2.	Click movie title and watch trailer
 3.	Click profile button and sign out
