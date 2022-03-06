@@ -1,6 +1,19 @@
 Netflix Clone
 
-Hi, thank you for reviewing my Netflix Clone project. 
+View Project live</br>
+https://netflix-clone2-bf560.firebaseapp.com/
+
+View my portfolio</br>
+https://zaythedev.com
+
+<b>Stack</b>
+<li>JavaScript</li>
+<li>React</li>
+<li>Redux</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Firebase</li>
+
 
 <b>Instructions for app</b>
 1.	Enter a pseudo email and password and click “sign up now”
