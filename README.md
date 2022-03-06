@@ -13,6 +13,7 @@ https://zaythedev.com
 <li>HTML</li>
 <li>CSS</li>
 <li>Firebase</li>
+<li>IMDB API</li><br/>
 
 
 <b>Instructions for app</b>
